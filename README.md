@@ -7,7 +7,9 @@ Olá eu sou o Wilhiam Junior<br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div><br>
  <div>
   <a href="https://github.com/wilhiamopyt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhiamopyt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhiamopyt&show_icons=true&theme=blue-green_all_commits=true&count_private=true"/>
+    
+
  <a href="ttps://github.com/wilhiamopyt/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamopyt&layout=compact"/>
 </div>
