@@ -9,9 +9,6 @@ Olá eu sou o Wilhiam Junior<br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/primereact/primereact-original.svg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/prisma.jpg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/bootstrap.jpg"></div><br>
  <div style="display:inline_block">
   <a href="https://github.com/wilhiamopyt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wilhiamopyt&show_icons=true&theme=blue-green&_all_commits=true&count_private=true"/>
