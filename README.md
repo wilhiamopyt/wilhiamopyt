@@ -20,5 +20,8 @@ Olá eu sou o Wilhiam Junior<br>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamopyt&layout=compact&theme=blue-green"/>
 </div>
 <br>
-<br>
  <img align="center" alt="codium" width="150px" src="https://codeium.com/badges/main">
+<br>
+ <img height="150em" src= "https://codeium.com/profile/wilhiamjr/card.png"/>
+  
+
