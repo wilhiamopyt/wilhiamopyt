@@ -21,5 +21,4 @@ Olá eu sou o Wilhiam Junior<br>
 </div>
 <br>
 <br>
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com/badges/main)
- <img align="center" alt="codium" height="30" width="40" src="https://codeium.com/badges/main">
+ <img align="center" alt="codium" height="50" width="40" src="https://codeium.com/badges/main">
