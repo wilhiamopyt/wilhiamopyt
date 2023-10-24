@@ -19,3 +19,7 @@ Olá eu sou o Wilhiam Junior<br>
  <a href="https://github.com/wilhiamopyt/github-readme-stats">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamopyt&layout=compact&theme=blue-green"/>
 </div>
+<br>
+<div>
+ [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+</div>
