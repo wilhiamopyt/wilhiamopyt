@@ -21,5 +21,5 @@ Olá eu sou o Wilhiam Junior<br>
 </div>
 <br>
 <br>
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=wilhiamjr)
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com/profile/wilhiamjr)
 
